@@ -15,7 +15,7 @@ https://github.com/DARR3NG/TP_JSF/assets/127052543/d27dac97-16ad-45eb-abcd-0725d
 
 
 
-## 3. Filters avec un Grand Titre TP JSF
+## 3. Filters 
 
 
 
